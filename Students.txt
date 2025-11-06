@@ -1,0 +1,3 @@
+{"name": "Ajay", "rollno": "054", "course": "MCA", "year": "2025", "section": "1", "dob": "21-07-2005", "promise": "Yes"}
+{"name": "Ajay", "rollno": "54", "course": "MCA", "year": "2025", "section": "1", "dob": "C:\\Users\\jonna\\AppData\\Local\\Programs\\Python\\Python313\\python.exe d:/MCA/Python/Project-1.py", "promise": "C:\\Users\\jonna\\AppData\\Local\\Programs\\Python\\Python313\\python.exe d:/MCA/Python/Project-1.py"}
+{"name": "Ajay", "rollno": "54", "course": "MCA", "year": "2025", "section": "1", "dob": "14-12-2005", "promise": "Yes"}
